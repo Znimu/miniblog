@@ -30,3 +30,12 @@ a
     text-decoration: none;
     color: blue;
 }
+
+input, textarea {
+    box-sizing: border-box;
+    width: 400px;
+}
+
+textarea {
+    height: 80px;
+}
